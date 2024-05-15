@@ -30,10 +30,9 @@
  </p>
 </br>
 
-
-![Commit Stats]<img src="https://github-readme-streak-stats.herokuapp.com/?user=Fatmaud&theme=chartreuse-dark" alt="my commit status" width="49%" />
-![Top Langs]<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fatmaud&theme=chartreuse-dark&layout=compact" alt="languages" width="50%">
-![Visitor Badge](https://komarev.com/ghpvc/?username=Fatmaud)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Fatmaud&theme=chartreuse-dark" alt="my commit status" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fatmaud&theme=chartreuse-dark&layout=compact" alt="languages" width="50%">
+(https://komarev.com/ghpvc/?username=Fatmaud)
 
 ## Skills
 
