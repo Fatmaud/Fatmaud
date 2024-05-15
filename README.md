@@ -1,14 +1,11 @@
-<h1 align="center">Hi 👋, I'm Fatma</h1>
-<h3 align="center">A passionate frontend developer from Germany</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> I'm Fatma!</h1>
+<h3 align="center">I'm a Wife, Mother, Teacher, and a passionate Fullstack Developer!</h3>
 
-
-- 🌱 I’m currently learning **Node.js**
-- 📫 How to reach me **fatmaudemirci@gmail.com**
-</br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
 <a href="https://linkedin.com/in/fatma demirci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatma demirci" height="30" width="40" /></a>
-<a href="https://instagram.com/fatma.y.d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fatma.y.d" height="30" width="40" /></a>
+
 </p></br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
