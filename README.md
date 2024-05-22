@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> I'm Fatma!</h1>
-<h3 align="center">I'm an enthusiastic learner and a passionate Fullstack Developer, !</h3>
+<h3 align="center">An enthusiastic learner and a passionate Fullstack Developer!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
